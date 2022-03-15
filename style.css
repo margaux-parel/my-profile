@@ -1,0 +1,51 @@
+body {
+	background-color: RGB(240,240,240);
+	color: rgb(30,30,30);
+	font-family: 'PT Serif', serif;
+	margin: 320px;
+}
+
+h1,h2,h3 {
+	font-family: 'Playfair Display', serif;
+	text-align: center;
+}
+
+h1{
+	color: #2D31FA;
+	font-weight: bolder;
+	letter-spacing: 4px;
+	font-size: 50px;
+	margin: 20px;
+}
+
+h2{
+	color: #488FB1;
+	font-weight: bolder;
+	letter-spacing: 2px;
+	font-size: 25px;
+	margin: 20px;
+}
+
+p{
+	margin: 20px 50px;
+}
+
+a{
+	font-family: 'Playfair Display', serif;
+	text-decoration: none ;
+	color: #2D31FA ;
+	font-weight: bold;
+	margin: 50px;
+}
+a:hover{
+	color: deeppink ;	
+}
+
+div{
+	background: white;
+	border: 1px dashed ;
+	margin: 50px
+	padding: 20px;
+	border-radius: 5px;
+	text-align: center;
+}
